@@ -9,22 +9,23 @@ Google - Light:
   paper-font-caption_-_font-family: "var(--primary-font-family)"
   paper-font-title_-_font-family: "var(--primary-font-family)"
 
-  ha-card-border-radius: "0px"
+  ha-card-border-radius: "15px"
   ha-card-header-color: "#757575"
   ha-card-box-shadow: "0px 0px 1px #eeeeee"
 
   ### Main Interface Colors ###
   app-header-background-color: "#ffffff"
-  primary-color: "#000000"
+  primary-color: "#6299E3"
   light-primary-color: "#c1c1c1"
   primary-background-color: "#F7F9FB"
   secondary-background-color: "#ffffff"
   divider-color: "#e7e7e7"
   ### Text ###
-  primary-text-color: var(--primary-color)
+  primary-text-color: '#000000'
   secondary-text-color: "#757575"
-  text-primary-color: "#061014"
+  text-primary-color: "#FFFFFF"
   disabled-text-color: "#a1a1a1"
+  app-header-text-color: "#000000"
   ### Sidebar Menu ###
   sidebar-background-color: "#ffffff"
   sidebar-icon-color: "#757575"
